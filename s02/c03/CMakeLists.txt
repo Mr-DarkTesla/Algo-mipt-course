@@ -1,0 +1,11 @@
+#add_executable(c03_A A.cpp
+add_executable(c03_B B.cpp)
+add_executable(c01_C "C.cpp")
+add_executable(c02_C2 "C2.cpp")
+add_executable(c03_D D.cpp)
+add_executable(c03_E E.cpp)
+add_executable(c03_E2 E2.cpp)
+add_executable(c03_F F.cpp)
+#add_executable(c03_G G.cpp)
+#add_executable(c03_H H.cpp)
+#add_executable(c03_J J.cpp)

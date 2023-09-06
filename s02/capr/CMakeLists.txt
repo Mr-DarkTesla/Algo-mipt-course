@@ -1,0 +1,6 @@
+add_executable(c05_A A.cpp)
+#add_executable(c05_B B.cpp)
+#add_executable(c05_C C.cpp)
+#add_executable(c05_C_2 C_2.cpp)
+#add_executable(c05_D D.cpp)
+#add_executable(c05_E E.cpp)
